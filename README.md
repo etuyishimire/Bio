@@ -1,4 +1,3 @@
-# About Me
 
 **Degrees:** PhD and  MSc in Computer Science, MSc in Mathematical Sciences, BSc in Mathematics.
 
